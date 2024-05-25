@@ -1,0 +1,28 @@
+{
+    "name": "Backend for Mpesa API stk push",
+    "version": "1.0.0",
+    "description": "Mpesa Api|Node js",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "dev": "nodemon app.js"
+    },
+    "keywords": [
+      "Mpesa"
+    ],
+    "author": "Jesse Nehemiah",
+    "license": "ISC",
+    "dependencies": {
+      "axios": "^1.4.0",
+      "body-parser": "^1.20.1",
+      "cors": "^2.8.5",
+      "express": "^4.18.2",
+      "fs": "^0.0.1-security",
+      "fund": "^1.0.0",
+      "moment": "^2.29.4"
+    },
+    "devDependencies": {
+      "nodemon": "^3.0.2"
+    }
+  }
+  
