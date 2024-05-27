@@ -1,3 +1,4 @@
+## STAR THE REPO AND FOLLOW ME GODDAMIT
 This is the React Js Boilerplate
 
 Launch your solution as fast as possible
